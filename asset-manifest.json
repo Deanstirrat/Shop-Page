@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.76e7a4f7.css",
-    "main.js": "/static/js/main.8c9025ad.js",
-    "static/js/787.d6fe38e8.chunk.js": "/static/js/787.d6fe38e8.chunk.js",
-    "static/media/heartleafPhilodendron.jpeg": "/static/media/heartleafPhilodendron.b05ea30d4743942493f8.jpeg",
-    "static/media/moneyTree.jpeg": "/static/media/moneyTree.b88accd6afc95bc165eb.jpeg",
-    "static/media/madagascarDragonTree.jpeg": "/static/media/madagascarDragonTree.b3d2dc34c660e4c443a1.jpeg",
-    "static/media/fiddleLeafFig.jpeg": "/static/media/fiddleLeafFig.6ca7c69fb800c62a151f.jpeg",
-    "static/media/dracaenaCornPlant.avif": "/static/media/dracaenaCornPlant.ee56bb37caf1ad1ba1ab.avif",
-    "static/media/people-with-plants.jpeg": "/static/media/people-with-plants.5db7878fb827357a1248.jpeg",
-    "static/media/monstera.jpeg": "/static/media/monstera.ed6e4966515f21e2dfb0.jpeg",
-    "static/media/bambooPalm.webp": "/static/media/bambooPalm.d99122058f741ef76298.webp",
-    "static/media/giantBirdOfParadise.webp": "/static/media/giantBirdOfParadise.d66a388e436db7501edf.webp",
-    "static/media/spider-plant.png": "/static/media/spider-plant.3735cadb727cd16f012b.png",
-    "static/media/rubberPlant.jpeg": "/static/media/rubberPlant.49d7535e457a282d73c6.jpeg",
-    "static/media/shopping-cart.png": "/static/media/shopping-cart.96c73cb49987ccdf1154.png",
-    "index.html": "/index.html",
-    "main.76e7a4f7.css.map": "/static/css/main.76e7a4f7.css.map",
-    "main.8c9025ad.js.map": "/static/js/main.8c9025ad.js.map",
-    "787.d6fe38e8.chunk.js.map": "/static/js/787.d6fe38e8.chunk.js.map"
+    "main.css": "/shopping-cart/static/css/main.76e7a4f7.css",
+    "main.js": "/shopping-cart/static/js/main.497ef9f1.js",
+    "static/js/787.d6fe38e8.chunk.js": "/shopping-cart/static/js/787.d6fe38e8.chunk.js",
+    "static/media/heartleafPhilodendron.jpeg": "/shopping-cart/static/media/heartleafPhilodendron.b05ea30d4743942493f8.jpeg",
+    "static/media/moneyTree.jpeg": "/shopping-cart/static/media/moneyTree.b88accd6afc95bc165eb.jpeg",
+    "static/media/madagascarDragonTree.jpeg": "/shopping-cart/static/media/madagascarDragonTree.b3d2dc34c660e4c443a1.jpeg",
+    "static/media/fiddleLeafFig.jpeg": "/shopping-cart/static/media/fiddleLeafFig.6ca7c69fb800c62a151f.jpeg",
+    "static/media/dracaenaCornPlant.avif": "/shopping-cart/static/media/dracaenaCornPlant.ee56bb37caf1ad1ba1ab.avif",
+    "static/media/people-with-plants.jpeg": "/shopping-cart/static/media/people-with-plants.5db7878fb827357a1248.jpeg",
+    "static/media/monstera.jpeg": "/shopping-cart/static/media/monstera.ed6e4966515f21e2dfb0.jpeg",
+    "static/media/bambooPalm.webp": "/shopping-cart/static/media/bambooPalm.d99122058f741ef76298.webp",
+    "static/media/giantBirdOfParadise.webp": "/shopping-cart/static/media/giantBirdOfParadise.d66a388e436db7501edf.webp",
+    "static/media/spider-plant.png": "/shopping-cart/static/media/spider-plant.3735cadb727cd16f012b.png",
+    "static/media/rubberPlant.jpeg": "/shopping-cart/static/media/rubberPlant.49d7535e457a282d73c6.jpeg",
+    "static/media/shopping-cart.png": "/shopping-cart/static/media/shopping-cart.96c73cb49987ccdf1154.png",
+    "index.html": "/shopping-cart/index.html",
+    "main.76e7a4f7.css.map": "/shopping-cart/static/css/main.76e7a4f7.css.map",
+    "main.497ef9f1.js.map": "/shopping-cart/static/js/main.497ef9f1.js.map",
+    "787.d6fe38e8.chunk.js.map": "/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76e7a4f7.css",
-    "static/js/main.8c9025ad.js"
+    "static/js/main.497ef9f1.js"
   ]
 }
